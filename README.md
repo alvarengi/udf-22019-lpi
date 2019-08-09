@@ -1,9 +1,9 @@
 ![Logo do UDF](https://scontent.fbsb1-1.fna.fbcdn.net/v/t1.0-9/53882724_2308535399183438_6493229942908649472_n.png?_nc_cat=101&_nc_oc=AQl9BhoxoyT3FcIEBeKk-A9b7dMEi9kOLipY3m3BhmCRwf_dJxlB7T9l5mXvejQtP2c&_nc_ht=scontent.fbsb1-1.fna&oh=020fbe40dc4cf65b37b75e229ed04dcb&oe=5DD039B7 "Logo do UDF")
 
-# Linguagem de Programação 1
-Olá! Você chegou no meu repositório contendo os exercícios e projetos desenvolvidos na disciplina Linguagem de Programação 1 no Centro Universitário do Distrito Federal no 2º semestre de 2019, ministrada pelo professor Edjelson Marinho.
+# Linguagem de Programação I
+Olá! Você chegou no meu repositório contendo os exercícios e projetos desenvolvidos na disciplina Linguagem de Programação I no Centro Universitário do Distrito Federal no 2º semestre de 2019, ministrada pelo professor Edjelson Marinho.
 
-Disciplina: Linguagem de Programação 1
+Disciplina: Linguagem de Programação I
 
 Período: 3º
 
